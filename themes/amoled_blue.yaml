@@ -8,7 +8,7 @@
 AMOLED Blue:
   # Header:
   app-header-background-color: "#000000"
-  app-header-text-color: "#BDC1C6"
+  app-header-text-color: "#FFFFFF"
   # Main Interface Colors
   primary-color: "#5F9BEA"
   light-primary-color: var(--primary-color)
@@ -16,13 +16,13 @@ AMOLED Blue:
   secondary-background-color: "#0d0d0d"
   divider-color: var(--primary-background-color)
   # Text
-  primary-text-color: "#BDC1C6"
-  secondary-text-color: "#BDC1C6"
+  primary-text-color: "#FFFFFF"
+  secondary-text-color: "#FFFFFF"
   text-primary-color: "#FFFFFF"
   disabled-text-color: "#717171"
   # Sidebar Menu
   sidebar-icon-color: var(--app-header-text-color)
-  sidebar-text-color: '#BDC1C6'
+  sidebar-text-color: '#FFFFFF'
   sidebar-background-color: "#0D0D0D"
   sidebar-selected-background-color: var(--primary-background-color)
   sidebar-selected-icon-color: "#5F9BEA"
@@ -39,7 +39,7 @@ AMOLED Blue:
   paper-slider-secondary-color: var(--light-primary-color)
   # Labels
   label-badge-background-color: "#000000"
-  label-badge-text-color: "#BDC1C6"
+  label-badge-text-color: "#FFFFFF"
   label-badge-red: "#BE3A3E"
   label-badge-green: "#5CB861"
   label-badge-blue: "#44A4CD"
